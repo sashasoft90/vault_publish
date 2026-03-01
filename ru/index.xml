@@ -9,13 +9,37 @@
     <title>Русский</title>
     <link>https://sashasoft90.github.io/vault_publish/</link>
     <guid>https://sashasoft90.github.io/vault_publish/</guid>
-    <description><![CDATA[ Blog/Vibe Coding I vs AI: мой путь в Vibe Coding . ]]></description>
-    <pubDate>Sun, 01 Mar 2026 21:04:51 GMT</pubDate>
+    <description><![CDATA[ Blog/Vibe Coding I vs AI: мой путь в Vibe Coding Second Brain/Vibe Coding Контекст, токены и CLAUDE.md Промптинг — это навык Безопасность при работе с AI Инструменты AI: модели, Skills, MCP, субагенты . ]]></description>
+    <pubDate>Sun, 01 Mar 2026 21:08:04 GMT</pubDate>
   </item><item>
     <title>I vs AI: мой путь в Vibe Coding</title>
     <link>https://sashasoft90.github.io/vault_publish/Blog/Vibe-Coding/VibeCoding</link>
     <guid>https://sashasoft90.github.io/vault_publish/Blog/Vibe-Coding/VibeCoding</guid>
     <description><![CDATA[ I vs AI: мой путь в Vibe Coding Дисклеймер Оплачено вечерами, нервами и личной жизнью. Пробуй. Падай. Вставай. Снова падай. ]]></description>
+    <pubDate>Mon, 09 Feb 2026 22:47:00 GMT</pubDate>
+  </item><item>
+    <title>Контекст, токены и CLAUDE.md</title>
+    <link>https://sashasoft90.github.io/vault_publish/Second-Brain/Vibe-Coding/VibeCodingContext</link>
+    <guid>https://sashasoft90.github.io/vault_publish/Second-Brain/Vibe-Coding/VibeCodingContext</guid>
+    <description><![CDATA[ Контекст, токены и CLAUDE.md Часть серии I vs AI: мой путь в Vibe Coding Контроль — это всё AI генерирует быстро, но проверять обязательно. ]]></description>
+    <pubDate>Mon, 09 Feb 2026 22:47:00 GMT</pubDate>
+  </item><item>
+    <title>Промптинг — это навык</title>
+    <link>https://sashasoft90.github.io/vault_publish/Second-Brain/Vibe-Coding/VibeCodingPrompting</link>
+    <guid>https://sashasoft90.github.io/vault_publish/Second-Brain/Vibe-Coding/VibeCodingPrompting</guid>
+    <description><![CDATA[ Промптинг — это навык Часть серии I vs AI: мой путь в Vibe Coding Правило AI — это тот же разработчик, который не понимает что ты от него хочешь, но очень хочет помочь. ]]></description>
+    <pubDate>Mon, 09 Feb 2026 22:47:00 GMT</pubDate>
+  </item><item>
+    <title>Безопасность при работе с AI</title>
+    <link>https://sashasoft90.github.io/vault_publish/Second-Brain/Vibe-Coding/VibeCodingSecurity</link>
+    <guid>https://sashasoft90.github.io/vault_publish/Second-Brain/Vibe-Coding/VibeCodingSecurity</guid>
+    <description><![CDATA[ Безопасность при работе с AI Часть серии I vs AI: мой путь в Vibe Coding Брюс Шнайер “Security is a process, not a product” — Безопасность — это процесс, а не продукт. ]]></description>
+    <pubDate>Mon, 09 Feb 2026 22:47:00 GMT</pubDate>
+  </item><item>
+    <title>Инструменты AI: модели, Skills, MCP, субагенты</title>
+    <link>https://sashasoft90.github.io/vault_publish/Second-Brain/Vibe-Coding/VibeCodingTools</link>
+    <guid>https://sashasoft90.github.io/vault_publish/Second-Brain/Vibe-Coding/VibeCodingTools</guid>
+    <description><![CDATA[ Инструменты AI: модели, Skills, MCP, субагенты Часть серии I vs AI: мой путь в Vibe Coding AI-модели ИнструментДля чегоЦенаClaude CodeОсновной: код, дебаг, инфра, рефакторинг~20/150 EUR/месGitHub CopilotНа работе: автодополнение в IDEКорпоративныйChatGPTТексты, брейншторм, быстрые вопросыFreeGeminiG... ]]></description>
     <pubDate>Mon, 09 Feb 2026 22:47:00 GMT</pubDate>
   </item>
     </channel>
